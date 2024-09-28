@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "日本語入力",
+  "version": "1.0",
+  "description": "入力された日本語のひらがな部分をカタカナに変更する拡張機能です。",
+  "action": {
+    "default_popup": "jpn.html",
+    "default_icon": "icon.jpg"
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ]
+}
